@@ -1,0 +1,11 @@
+# Ignore preprocessed data
+data/Preprocessed/
+*.npy
+*.csv
+
+# Ignore models
+*.h5
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
